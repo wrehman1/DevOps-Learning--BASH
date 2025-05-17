@@ -21,7 +21,23 @@ Comments are made within the "'" quotation marks.
 
 ![image](https://github.com/user-attachments/assets/9c8e71d0-b5e3-493d-ad64-a441986bbe62)
 
-
-
-
 ![image](https://github.com/user-attachments/assets/f9919a81-58ac-45f7-83de-77fb3ce485de)
+
+
+**Run scripts from anywhere**
+
+To a run a script from anywhere on the terminal; it should be placed in commom directory which is user local bin, this can be seem using the "scho $PATH" command. 
+To move a script to another directory, it needs a super user comman "sudo". It also needs to have execution rights which can be altared via "sudo chmod +x /usr/local/bin/greet" command.  
+
+![image](https://github.com/user-attachments/assets/63f2c441-dae8-4ba2-b3cb-51bb12d0a0be)
+
+
+**Variables**
+
+Variables are an essential component of bash scripting as they allow you to store and manipulate data. It makes the script dynamic and flexible. Variables are created using the assignemnt operator equals (=). To access the value of a variable, we propend the name of the variable with a dollar sign ($). Variables can hold different types of data such as strings, numbers and arrays. Variable interpolation allows you to use variables within strings to create a dynamic output
+
+![image](https://github.com/user-attachments/assets/0fac58b0-53e7-4945-8250-df1e29e56eb7)
+
+![image](https://github.com/user-attachments/assets/490ff411-2f7e-4135-aeeb-47e5b9909b55)
+
+

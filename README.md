@@ -15,5 +15,13 @@ To show this, I created a new file "touch greet.sh. Then I edited the file by go
 
 Comments are lines in the script that are not executed as part of the code. Instead they serve as informative text for us to read the script. 
 Adding comments to the script is considered as best practice because it helps you and others to understand the purpose, functionality and logic of the script.
+To add comments, it always begins with "#".
+Comments are added in the vim editor in this case, it is with the extension.sh file. 
+Comments are made within the "'" quotation marks.
+
+![image](https://github.com/user-attachments/assets/9c8e71d0-b5e3-493d-ad64-a441986bbe62)
+
+
+
 
 ![image](https://github.com/user-attachments/assets/f9919a81-58ac-45f7-83de-77fb3ce485de)

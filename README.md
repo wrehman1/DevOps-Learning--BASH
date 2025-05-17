@@ -40,4 +40,5 @@ Variables are an essential component of bash scripting as they allow you to stor
 
 ![image](https://github.com/user-attachments/assets/490ff411-2f7e-4135-aeeb-47e5b9909b55)
 
+![image](https://github.com/user-attachments/assets/ca005b38-fd8f-49a6-b646-6b13ea45827f)
 

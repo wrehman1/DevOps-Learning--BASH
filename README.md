@@ -42,3 +42,36 @@ Variables are an essential component of bash scripting as they allow you to stor
 
 ![image](https://github.com/user-attachments/assets/ca005b38-fd8f-49a6-b646-6b13ea45827f)
 
+
+**Parameters**
+
+Parameters are provided after a script name when executing a script. Inside the script, parameters can be accessed using "$1, $2, $3" based on their position. The special variable dollar can be used to access all the parameters passed to the script. By allowing inputs through parameters you can make your script more interactive and versatile.
+
+![image](https://github.com/user-attachments/assets/95a2b37a-7cc5-46d4-a979-fca95f7a056a)
+
+![image](https://github.com/user-attachments/assets/190f3f33-f938-4e2c-bd71-d57a124d2442)
+
+![image](https://github.com/user-attachments/assets/d31b2940-ca39-49d8-ae11-f72bb167487f)
+
+![image](https://github.com/user-attachments/assets/5e8cf3a7-c211-4080-8bee-17e732b181f6)
+
+
+**Arithmetic Expansion**
+
+Arithmetic expansion provides the following benefits: 
+
+* It enables mathematical calculations and expression evaluation within the bash script.
+* It allows the incorporation of variables and parameters into the calculation, making the script more dynamic and flexible.
+* It provides a concise and readable syntax using the dollar and double parentheses notation.
+
+![image](https://github.com/user-attachments/assets/24798e7c-753e-4b28-b496-4795a909fcb8) ![image](https://github.com/user-attachments/assets/f74413af-2c5a-42d8-a96e-4a74bfd86099)
+
+![image](https://github.com/user-attachments/assets/6470bb0f-bc0f-4593-b228-aa905143debc) ![image](https://github.com/user-attachments/assets/950ea0de-5ef6-42c3-8181-0ee580861e6b)
+
+
+**Arithemetic Expansion (with Parameters)**
+
+This enables us to create dynamic scripts that can accept user input and perform calculations based on those inputs
+
+![image](https://github.com/user-attachments/assets/a047be16-af51-452b-883d-c212263662ce) ![image](https://github.com/user-attachments/assets/54e9efc3-a156-437f-be7a-d098fb63130a)
+

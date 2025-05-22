@@ -73,13 +73,16 @@ Arithmetic expansion provides the following benefits:
 
 This enables us to create dynamic scripts that can accept user input and perform calculations based on those inputs
 
-![image](https://github.com/user-attachments/assets/a047be16-af51-452b-883d-c212263662ce) ![image](https://github.com/user-attachments/assets/54e9efc3-a156-437f-be7a-d098fb63130a)
+![image](https://github.com/user-attachments/assets/a047be16-af51-452b-883d-c212263662ce) 
 
 
 **If Statements**
 
+If statements allow you to make decisions and execute different code blocks based on conditions. Conditions are formed using comparison operators and logical operators. You can compare numbers, strings and combine conditions using logical operators and else clauses. 
 
 ![image](https://github.com/user-attachments/assets/752eb978-fb81-4afa-a58f-0f5cf225302f)
 
+![image](https://github.com/user-attachments/assets/54e9efc3-a156-437f-be7a-d098fb63130a)
 
+![image](https://github.com/user-attachments/assets/b3d5ea07-fddb-49ef-a9f8-44973a9b0e29)
 

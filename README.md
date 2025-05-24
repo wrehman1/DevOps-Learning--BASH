@@ -105,3 +105,58 @@ Nested if statements offer the following benefits:
 
 - ![image](https://github.com/user-attachments/assets/05627d2c-0b09-4546-a2bc-1d5aca543a5b)
 
+
+**While Loops**
+
+While loops allow you to repeatedly execute a block of code as long as a condition is true. The condition is evaluated before each iteration. THe loop continues until the condition becomes false. While loops are useful for automating tasks and iterating over data.
+
+![image](https://github.com/user-attachments/assets/0308b788-48de-4d49-b0b6-ef552a1c4b59)
+
+![image](https://github.com/user-attachments/assets/fa9545e1-c5d2-4c28-bdf2-a3a43233dd4c)
+
+
+**For loops**
+
+For loops are used to iterate over a sequence or a range of values. The variable in the loop takes on each value in the sequence and the code block in between the do and done keywords is executed for each iteration. For loops can be used with arrays, lists of values or ranges to automate repetitive tasks and process data systematically. 
+
+![image](https://github.com/user-attachments/assets/d226387f-e56a-4cc3-a80b-28892ac1add0)
+
+![image](https://github.com/user-attachments/assets/641a4bf2-53d2-43e1-937f-b9afe0209f04)
+
+![image](https://github.com/user-attachments/assets/785dcfe9-691b-48f9-be91-cd660528f9b3)
+
+
+**Break and continue**
+
+The break statement exits the innermost loop it is placed in. The continue statement skips the rest of the current iteration for the loop and moves onto the next iteration. Both break and continue statements can be used with "for" and "while" loops to fine tune the behaviour of the loops
+
+![image](https://github.com/user-attachments/assets/c226ac6f-cb78-4faf-9104-d2c8f9a569ad)
+
+![image](https://github.com/user-attachments/assets/6192b0ef-86c6-494b-8254-ca7c672c8ef0)
+
+![image](https://github.com/user-attachments/assets/2ee4afe3-d4ca-457c-b28f-a6eaf9fd1ffc)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

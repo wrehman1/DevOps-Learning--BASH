@@ -95,3 +95,13 @@ The else clause provides an alternative code block to be executed when the if co
 
 ![image](https://github.com/user-attachments/assets/2e0ea27a-6669-478a-84a9-fa0f7c4c25f8)
 
+
+**Nested if Statements**
+
+Nested if statements offer the following benefits: 
+- They allow the evaluation of multiple conditions and execution of clde blocks based on the results.
+- They provide a way to handle complex decision making scenarios.
+- They enhance the flexibility & versatility of bash groups, which means its easy to adapt to different situations.
+
+- ![image](https://github.com/user-attachments/assets/05627d2c-0b09-4546-a2bc-1d5aca543a5b)
+

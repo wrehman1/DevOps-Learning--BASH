@@ -86,3 +86,12 @@ If statements allow you to make decisions and execute different code blocks base
 
 ![image](https://github.com/user-attachments/assets/b3d5ea07-fddb-49ef-a9f8-44973a9b0e29)
 
+
+**Else and Elif Statements**
+
+The else clause provides an alternative code block to be executed when the if condition is false. When this condition is false, we look at the elif condition, otherwise we resort to the else clause which executes the command. Therefore the else clause is used in conjunction with the if statement and can be combined with the LFQ word for more complex conditions. This adds flexibility and versatility to the bash group, which allows us to handle alternative paths based on the condition evaluation. 
+
+![image](https://github.com/user-attachments/assets/0eb349db-2154-4a6e-b601-488483a5ba67)
+
+![image](https://github.com/user-attachments/assets/2e0ea27a-6669-478a-84a9-fa0f7c4c25f8)
+

@@ -137,20 +137,38 @@ The break statement exits the innermost loop it is placed in. The continue state
 ![image](https://github.com/user-attachments/assets/2ee4afe3-d4ca-457c-b28f-a6eaf9fd1ffc)
 
 
+**Basics of Functions**
+
+Functions are defined using the function bame followed by parentheses and then curly braces. They are then encapsulate the code within the curly braces. Functions can be called using the function name and we can exit parameters to make them more flexible and reuseable.
+
+![image](https://github.com/user-attachments/assets/a0596c11-56d2-440c-a935-b257beebfc68)
+
+![image](https://github.com/user-attachments/assets/82cfa195-bfe7-4d06-a1bc-30c7c360b69b)
 
 
+**Parameters**
+
+Positional parameters allow us to pass data to functions and access them using numbered variables like "$1 and $2". Special parameters provide additional information about the script and the arguements passed to it, such as "$#" for number of arguments, "$0" for name of script amd "$@" for all arguments. These are known as special parameters. 
+
+![image](https://github.com/user-attachments/assets/02f81c8d-273a-4cd7-ac8e-9ba63533651f)
 
 
+**User Inputs**
+
+The read command is useful for interactive prompts, allowing users to enter information within the script. Commands and arguments provide a direct way to pass user input when calling functions. By combining both methods, we can create functions that offer flexibilty in how the user input is accepted. We explored different methods of accepting user input within functions in bash scripting and by leveraging user input, we are able to create interactive and versatile scripts that cater to specific user needs. 
+
+![image](https://github.com/user-attachments/assets/2d95f58e-ed6e-48be-b080-4902a3a24bf5)
+
+![image](https://github.com/user-attachments/assets/00d92017-cde4-4343-8279-d5500a4a057e)
 
 
+**Handling Bad Data**
 
+Conditional statements can be used to validate user inputs ensuring they meet the desired criteria. Exit codes can be leveraged to determine the success or failure of input validation and provide appropriate feedback to the user. WE can use input sanitization such as parameter expansion with patent substitution, which can help clean and transform user inputs to meet the required format of constraints. 
 
+![image](https://github.com/user-attachments/assets/2061d75d-628c-42ec-a28a-d21b03f74ed5)
 
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/69acaaf7-e36b-40a7-98bf-62dc230ffa08)
 
 
 

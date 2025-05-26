@@ -171,7 +171,11 @@ Conditional statements can be used to validate user inputs ensuring they meet th
 ![image](https://github.com/user-attachments/assets/69acaaf7-e36b-40a7-98bf-62dc230ffa08)
 
 
+**Piping**
 
+Piping allows us to pass the output of one command as in input for another comman using the pipe symbol. Piping within functions enables us to perform advanced data operations and store the results in variables. We can combine piping with other commands or functions to create more complex data manipulations pipleines.
+
+![image](https://github.com/user-attachments/assets/f9b519ef-9a58-4a1f-91cf-67301d3ba470)
 
 
 

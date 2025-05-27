@@ -178,7 +178,18 @@ Piping allows us to pass the output of one command as in input for another comma
 ![image](https://github.com/user-attachments/assets/f9b519ef-9a58-4a1f-91cf-67301d3ba470)
 
 
+**Set -e**
 
+Using Set -e can help catch errors as soon as they happen and avoid unexpected behaviour due to unhandled errors. Not all non-zero exit codes are indicative of error that should stop the script. 
+
+![image](https://github.com/user-attachments/assets/aa3b5ebf-b473-4e8b-8cd3-e53689b21ef3)
+
+
+**Set -u**
+
+Using Set -u prevents the script from running into potential problems due to missing data.
+
+![image](https://github.com/user-attachments/assets/325e160d-0fe4-44ff-ad22-6b3c9df7e7f8)
 
 
 

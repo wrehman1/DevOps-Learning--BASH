@@ -192,4 +192,15 @@ Using Set -u prevents the script from running into potential problems due to mis
 ![image](https://github.com/user-attachments/assets/325e160d-0fe4-44ff-ad22-6b3c9df7e7f8)
 
 
+**Reading Environment Variables**
+
+Understanding how to read environment variables is essential, but it's also important to be familiar with some commonly used standard environment variables that provide useful information. 
+
+![image](https://github.com/user-attachments/assets/276113c7-7c1b-4e7a-99ba-134f118860f8)
+
+
+
+
+![image](https://github.com/user-attachments/assets/ac6e3835-c8bd-483d-99cb-1b5844d6d74d)
+
 

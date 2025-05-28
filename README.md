@@ -199,8 +199,13 @@ Understanding how to read environment variables is essential, but it's also impo
 ![image](https://github.com/user-attachments/assets/276113c7-7c1b-4e7a-99ba-134f118860f8)
 
 
+**Standard Environment Variables**
 
+The values of environmental variables can be accessed by uasung the variable name proceeded by a "$" sign. Assigning environmental variables to local variables makes the code more readable and easier to work with. Standard environment variables provide valuable information about the system, user and runtime environment. 
 
 ![image](https://github.com/user-attachments/assets/ac6e3835-c8bd-483d-99cb-1b5844d6d74d)
+
+![image](https://github.com/user-attachments/assets/d5b1b4e8-55e4-4c17-a951-3b4152f81c8d)
+
 
 

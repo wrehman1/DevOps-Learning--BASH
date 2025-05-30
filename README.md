@@ -208,4 +208,21 @@ The values of environmental variables can be accessed by uasung the variable nam
 ![image](https://github.com/user-attachments/assets/d5b1b4e8-55e4-4c17-a951-3b4152f81c8d)
 
 
+**Reading Files**
 
+Redirection and the while loop can be used to read files line by line, and process their content. The cat command can also be used to read the content of a file and pipe it for further processing.
+
+![image](https://github.com/user-attachments/assets/0cb8d670-2fc2-442f-a63e-f4945aa6b09a)
+
+
+**Writing Files**
+
+Redirection with the greater than operator (>) can be used to create a new file or modify an existing file by replacing its content. When greater than (>>) symbol is used, it creates the append operator, which can be used to append data to an exisitng file without overriding its previous content. 
+
+![image](https://github.com/user-attachments/assets/7e8e39e8-4091-497b-9f56-bf102cd191e2)
+![image](https://github.com/user-attachments/assets/f6f6aa68-12d4-4169-b924-e1f65476fb85)
+
+
+**File Checksums**
+
+we can generate file checksums using various algorithms using commands like "md5sum" and "sha256sum". These commands have to be installed before they can be used in a function in Bash. Comparing checksum values allows us to verify the integrity and authenticity of a file.

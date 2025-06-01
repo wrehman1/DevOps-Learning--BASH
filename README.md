@@ -226,3 +226,27 @@ Redirection with the greater than operator (>) can be used to create a new file 
 **File Checksums**
 
 we can generate file checksums using various algorithms using commands like "md5sum" and "sha256sum". These commands have to be installed before they can be used in a function in Bash. Comparing checksum values allows us to verify the integrity and authenticity of a file.
+
+
+
+**Battle Bash Arena - The game**
+
+Level 1: Th e Basics
+
+![image](https://github.com/user-attachments/assets/98ed05fd-125a-49ee-98d4-e0bdeb69cac9)
+
+Level 2: Variables & Loops
+
+![image](https://github.com/user-attachments/assets/d0f01690-fbae-4511-9f4d-70cf4446f448)
+
+Level 3: Conditional Statements
+
+![image](https://github.com/user-attachments/assets/3eed936a-967d-469f-bc29-2678eb595876)
+
+Level 4: File Manipulation
+
+![image](https://github.com/user-attachments/assets/20056243-f8b6-4042-ae6d-6c7b05d90931)
+
+Boss Battle 1: Combining Basics
+
+![image](https://github.com/user-attachments/assets/00c3ffea-f79a-470c-afec-de5368a7aeba)

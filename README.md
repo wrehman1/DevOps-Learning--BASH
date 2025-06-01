@@ -10,6 +10,7 @@ To show this, I created a new file "touch greet.sh. Then I edited the file by go
 
 ![image](https://github.com/user-attachments/assets/bfcfb06b-db6d-423a-939a-1b3cc8fca399)
 
+---------------------------------------------------------------------------------------------
 
 **Comments**
 
@@ -23,6 +24,7 @@ Comments are made within the "'" quotation marks.
 
 ![image](https://github.com/user-attachments/assets/f9919a81-58ac-45f7-83de-77fb3ce485de)
 
+------------------------------------------------------------------------------------------------------------
 
 **Run scripts from anywhere**
 
@@ -31,6 +33,7 @@ To move a script to another directory, it needs a super user comman "sudo". It a
 
 ![image](https://github.com/user-attachments/assets/63f2c441-dae8-4ba2-b3cb-51bb12d0a0be)
 
+----------------------------------------------------------------------------------------------------------------
 
 **Variables**
 
@@ -42,6 +45,7 @@ Variables are an essential component of bash scripting as they allow you to stor
 
 ![image](https://github.com/user-attachments/assets/ca005b38-fd8f-49a6-b646-6b13ea45827f)
 
+--------------------------------------------------------------------------------------------------------------
 
 **Parameters**
 
@@ -55,6 +59,7 @@ Parameters are provided after a script name when executing a script. Inside the 
 
 ![image](https://github.com/user-attachments/assets/5e8cf3a7-c211-4080-8bee-17e732b181f6)
 
+-------------------------------------------------------------------------------------------------------------
 
 **Arithmetic Expansion**
 
@@ -68,6 +73,7 @@ Arithmetic expansion provides the following benefits:
 
 ![image](https://github.com/user-attachments/assets/6470bb0f-bc0f-4593-b228-aa905143debc) ![image](https://github.com/user-attachments/assets/950ea0de-5ef6-42c3-8181-0ee580861e6b)
 
+------------------------------------------------------------------------------------------------------------
 
 **Arithemetic Expansion (with Parameters)**
 

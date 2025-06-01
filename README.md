@@ -83,6 +83,7 @@ This enables us to create dynamic scripts that can accept user input and perform
 
 ![image](https://github.com/user-attachments/assets/54e9efc3-a156-437f-be7a-d098fb63130a)
 
+---------------------------------------------------------------------------------------------------------------
 
 **If Statements**
 
@@ -92,6 +93,7 @@ If statements allow you to make decisions and execute different code blocks base
 
 ![image](https://github.com/user-attachments/assets/b3d5ea07-fddb-49ef-a9f8-44973a9b0e29)
 
+-----------------------------------------------------------------------------------------------------------------
 
 **Else and Elif Statements**
 
@@ -101,6 +103,7 @@ The else clause provides an alternative code block to be executed when the if co
 
 ![image](https://github.com/user-attachments/assets/2e0ea27a-6669-478a-84a9-fa0f7c4c25f8)
 
+------------------------------------------------------------------------------------------------------------------
 
 **Nested if Statements**
 
@@ -111,6 +114,7 @@ Nested if statements offer the following benefits:
 
 - ![image](https://github.com/user-attachments/assets/05627d2c-0b09-4546-a2bc-1d5aca543a5b)
 
+---------------------------------------------------------------------------------------------------------------
 
 **While Loops**
 
@@ -120,6 +124,7 @@ While loops allow you to repeatedly execute a block of code as long as a conditi
 
 ![image](https://github.com/user-attachments/assets/fa9545e1-c5d2-4c28-bdf2-a3a43233dd4c)
 
+----------------------------------------------------------------------------------------------------------------
 
 **For loops**
 
@@ -131,6 +136,7 @@ For loops are used to iterate over a sequence or a range of values. The variable
 
 ![image](https://github.com/user-attachments/assets/785dcfe9-691b-48f9-be91-cd660528f9b3)
 
+-----------------------------------------------------------------------------------------------------------------
 
 **Break and continue**
 
@@ -142,6 +148,7 @@ The break statement exits the innermost loop it is placed in. The continue state
 
 ![image](https://github.com/user-attachments/assets/2ee4afe3-d4ca-457c-b28f-a6eaf9fd1ffc)
 
+------------------------------------------------------------------------------------------------------------------
 
 **Basics of Functions**
 
@@ -151,6 +158,7 @@ Functions are defined using the function bame followed by parentheses and then c
 
 ![image](https://github.com/user-attachments/assets/82cfa195-bfe7-4d06-a1bc-30c7c360b69b)
 
+------------------------------------------------------------------------------------------------------------------
 
 **Parameters**
 
@@ -158,6 +166,7 @@ Positional parameters allow us to pass data to functions and access them using n
 
 ![image](https://github.com/user-attachments/assets/02f81c8d-273a-4cd7-ac8e-9ba63533651f)
 
+-----------------------------------------------------------------------------------------------------------------
 
 **User Inputs**
 
@@ -167,6 +176,7 @@ The read command is useful for interactive prompts, allowing users to enter info
 
 ![image](https://github.com/user-attachments/assets/00d92017-cde4-4343-8279-d5500a4a057e)
 
+----------------------------------------------------------------------------------------------------------------
 
 **Handling Bad Data**
 
@@ -176,6 +186,7 @@ Conditional statements can be used to validate user inputs ensuring they meet th
 
 ![image](https://github.com/user-attachments/assets/69acaaf7-e36b-40a7-98bf-62dc230ffa08)
 
+------------------------------------------------------------------------------------------------------------------
 
 **Piping**
 
@@ -183,6 +194,7 @@ Piping allows us to pass the output of one command as in input for another comma
 
 ![image](https://github.com/user-attachments/assets/f9b519ef-9a58-4a1f-91cf-67301d3ba470)
 
+------------------------------------------------------------------------------------------------------------------
 
 **Set -e**
 
@@ -190,6 +202,7 @@ Using Set -e can help catch errors as soon as they happen and avoid unexpected b
 
 ![image](https://github.com/user-attachments/assets/aa3b5ebf-b473-4e8b-8cd3-e53689b21ef3)
 
+------------------------------------------------------------------------------------------------------------------
 
 **Set -u**
 
@@ -197,6 +210,7 @@ Using Set -u prevents the script from running into potential problems due to mis
 
 ![image](https://github.com/user-attachments/assets/325e160d-0fe4-44ff-ad22-6b3c9df7e7f8)
 
+------------------------------------------------------------------------------------------------------------------
 
 **Reading Environment Variables**
 
@@ -204,6 +218,7 @@ Understanding how to read environment variables is essential, but it's also impo
 
 ![image](https://github.com/user-attachments/assets/276113c7-7c1b-4e7a-99ba-134f118860f8)
 
+------------------------------------------------------------------------------------------------------------------
 
 **Standard Environment Variables**
 
@@ -213,6 +228,7 @@ The values of environmental variables can be accessed by uasung the variable nam
 
 ![image](https://github.com/user-attachments/assets/d5b1b4e8-55e4-4c17-a951-3b4152f81c8d)
 
+------------------------------------------------------------------------------------------------------------------
 
 **Reading Files**
 
@@ -220,6 +236,7 @@ Redirection and the while loop can be used to read files line by line, and proce
 
 ![image](https://github.com/user-attachments/assets/0cb8d670-2fc2-442f-a63e-f4945aa6b09a)
 
+------------------------------------------------------------------------------------------------------------------
 
 **Writing Files**
 
@@ -228,10 +245,12 @@ Redirection with the greater than operator (>) can be used to create a new file 
 ![image](https://github.com/user-attachments/assets/7e8e39e8-4091-497b-9f56-bf102cd191e2)
 ![image](https://github.com/user-attachments/assets/f6f6aa68-12d4-4169-b924-e1f65476fb85)
 
+------------------------------------------------------------------------------------------------------------------
 
 **File Checksums**
 
 we can generate file checksums using various algorithms using commands like "md5sum" and "sha256sum". These commands have to be installed before they can be used in a function in Bash. Comparing checksum values allows us to verify the integrity and authenticity of a file.
+
 
 
 ----------------------------------------------------------------------------------------------

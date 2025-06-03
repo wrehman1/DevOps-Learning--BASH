@@ -289,7 +289,6 @@ Level 8: Multi-File Searcher
 
 ![image](https://github.com/user-attachments/assets/cd91e2ff-40c9-41cd-a77a-2a55cfe21d93)
 
-Level 9: Script to Monitor Directory Changes
 
 
 
